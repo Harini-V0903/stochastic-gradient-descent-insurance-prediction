@@ -5,7 +5,9 @@
 ## Overview
 
 This project implements Stochastic Gradient Descent (SGD) from scratch to predict insurance outcomes based on input features. 
+
 The goal is to understand how a machine learning model learns by updating its parameters for each individual data point, enabling faster and more dynamic learning.
+
 The project also includes a Streamlit web application for real-time predictions.
 
 ---
