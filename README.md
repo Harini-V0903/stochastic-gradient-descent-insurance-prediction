@@ -25,14 +25,19 @@ The project also includes a Streamlit web application for real-time predictions.
 ## Tech Stack ##
 
   Python
+  
   NumPy
+  
   Matplotlib
+  
   Streamlit
+  
   Scikit-learn 
   
   ---
 
 ##  Output
+
   Predicts insurance outcome based on input features
   Provides real-time results through the web app
   Shows fluctuating but overall decreasing cost during training
