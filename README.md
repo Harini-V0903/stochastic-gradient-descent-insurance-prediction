@@ -15,12 +15,19 @@ The project also includes a Streamlit web application for real-time predictions.
 ## Features
 
   Implementation of Stochastic Gradient Descent from scratch
+  
   Parameter updates for each training example
+  
   Faster learning compared to batch gradient descent
+  
   Visualization of cost fluctuations during training
+  
   Use of Mean Squared Error (MSE) as loss function
+  
   Data scaling for improved performance
+  
   Interactive web app using Streamlit
+  
   Real-time insurance prediction
   
   ---
